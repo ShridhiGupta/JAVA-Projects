@@ -18,6 +18,8 @@ A collection of Java-based projects covering various domains, including online r
 - **Database (if used):** MySQL / SQLite  
 - **Additional Libraries:** Java Swing / JavaFX (for GUI-based projects), JDBC (for database interaction)  
 
+---
+
 ### 📝 **Project Details**  
 
 #### 📌 **Online Reservation System**  
