@@ -47,6 +47,4 @@ A collection of Java-based projects covering various domains, including online r
 ---
 
 ### 🎯 **Contributing**  
-Contributions are welcome! Feel free to submit pull requests for improvements or bug fixes.  
-
----
+Contributions are welcome! Feel free to submit pull requests for improvements or bug fixes. 
