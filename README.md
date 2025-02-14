@@ -20,6 +20,31 @@ A collection of Java-based projects covering various domains, including online r
 
 ---
 
+### 🚀 **Installation & Usage**  
+
+1. **Clone the Repository:**  
+   ```bash
+   git clone https://github.com/your-username/JAVA-Projects.git
+   cd JAVA-Projects
+   ```
+
+2. **Navigate to a Project Folder:**  
+   ```bash
+   cd Online-Reservation-System  # Example
+   ```
+
+3. **Compile and Run the Java File:**  
+   ```bash
+   javac Main.java  
+   java Main  
+   ```
+
+4. **For Database-Dependent Projects:**  
+   - Set up the database using the provided SQL scripts.  
+   - Update the database connection credentials in the code if necessary.  
+
+---
+
 ### 📝 **Project Details**  
 
 #### 📌 **Online Reservation System**  
@@ -47,4 +72,11 @@ A collection of Java-based projects covering various domains, including online r
 ---
 
 ### 🎯 **Contributing**  
-Contributions are welcome! Feel free to submit pull requests for improvements or bug fixes. 
+Contributions are welcome! Feel free to submit pull requests for improvements or bug fixes.  
+
+---
+
+### 📄 **License**  
+This project is open-source and available under the **MIT License**.  
+
+---
