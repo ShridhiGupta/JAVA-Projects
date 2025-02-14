@@ -75,8 +75,3 @@ A collection of Java-based projects covering various domains, including online r
 Contributions are welcome! Feel free to submit pull requests for improvements or bug fixes.  
 
 ---
-
-### 📄 **License**  
-This project is open-source and available under the **MIT License**.  
-
----
