@@ -13,7 +13,7 @@ A collection of Java-based projects covering various domains, including online r
 ---
 
 ### 🔧 **Tech Stack**  
-- **Language:** Java (JDK 8+ recommended)  
+- **Language:** Java
 - **IDE:** IntelliJ IDEA / Eclipse / VS Code  
 - **Database (if used):** MySQL / SQLite  
 - **Additional Libraries:** Java Swing / JavaFX (for GUI-based projects), JDBC (for database interaction)  
